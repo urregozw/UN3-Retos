@@ -1,7 +1,7 @@
 # UN3-Retos
 
 ## Reto 1
-Los pasos del desarrollo y la documentación de la actividad esta en el documento PDF GuiaReto1.
+Los pasos del desarrollo y la documentación de la actividad esta en el documento PDF [GuiaReto1](https://github.com/urregozw/UN3-Retos/blob/main/GuiaReto1.pdf).
 
 En este principalmente creamos un cluster de EMR en AWS, seguimos el paso a paso y con este creamos el cluster dentro de AWS, logramos realizar:
 - Crear el cluster de EMR para su utilización
