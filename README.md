@@ -21,8 +21,11 @@ En esta guia exploramos un poco mas del EMR que creamos en el reto anterior y re
 
 ## S3 public URLs
 
-Se crearon dos carpetas para mostrar la utilización de las herramientas de HUE y ssh, el nombre de las carpetas donde se encuentran todos los archivos que se nos compartio con la carpeta de datasets son:
+Se crearon dos carpetas para mostrar la utilización de las herramientas de HUE y ssh, la ruta de archivos de estas carpetas es igual a la que se nos compartio en la carpeta de los datasets a la hora de realizar este laboratorio, para navegar en los archivos cambie el endpoint del archivo añadiendo por ejemplo "url.txt":
 
 **datasets_hue:** [https://mybucketemrtelematica.s3.amazonaws.com/datasets_hue/](https://mybucketemrtelematica.s3.amazonaws.com/datasets_hue/)
 
 **datasets_ssh:** [https://mybucketemrtelematica.s3.amazonaws.com/datasets_ssh/](https://mybucketemrtelematica.s3.amazonaws.com/datasets_ssh/)
+
+---
+**Ejemplo:** [https://mybucketemrtelematica.s3.amazonaws.com/datasets_hue/url.txt](https://mybucketemrtelematica.s3.amazonaws.com/datasets_hue/url.txt)
