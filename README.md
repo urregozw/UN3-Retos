@@ -11,7 +11,7 @@ En este principalmente creamos un cluster de EMR en AWS, seguimos el paso a paso
 - Crear un usuario en la consola de HUE, que nos ayudara a concentrarnos en toda la parte de hadoop
 
 ## Reto 2
-Los pasos del desarrollo y la documentación de la actividad esta en el documento PDF GuiaReto2.
+Los pasos del desarrollo y la documentación de la actividad esta en el documento PDF [GuiaReto2](https://github.com/urregozw/UN3-Retos/blob/main/GuiaReto2.pdf).
 
 
 En esta guia exploramos un poco mas del EMR que creamos en el reto anterior y retomamos desde este, aqui lo que principalmente hacemos es:
